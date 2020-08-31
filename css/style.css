@@ -2,6 +2,9 @@ body {
   margin: 0;
   text-align: center;
 }
+html {
+  scroll-behavior: smooth;
+}
 .line1 {
   border-style: none;
   border-top-style: dotted;
@@ -234,12 +237,11 @@ body {
 }
 .footer_p {
   color: #1a1a2e;
-  font-family: 'Montserrat', sans-serif;----p
+  font-family: "Montserrat", sans-serif;
 }
-.icon_attr{
+.icon_attr {
   background-color: #e94560;
-
 }
-.icon_link:any-link{
+.icon_link:any-link {
   color: black;
 }
