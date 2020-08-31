@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+/* ***************images*************** */
+
+.emp_img {
+  width: 250px;
+  float: left;
+  margin-right: 25px;
+}
+.rush_img {
+  width: 250px;
+  float: right;
+  margin-left: 25px;
+}
+
+/* ***************nav*************** */
+.nav {
+  font-family: "Russo One", sans-serif;
+}
+.nav-home:hover {
+  background-color: #0f3460;
+  color: #e94560;
+}
+.nav-skills:hover {
+  background-color: #0f3460;
+  color: #e94560;
+}
+.nav-contact:hover {
+  background-color: #0f3460;
+  color: #e94560;
+}
+
+.nav-home {
+  background-color: #e94560;
+  border-radius: 5px;
+  color: #0f3460;
+  text-decoration: none;
+  padding: 5px;
+  position: absolute;
+  right: 25%;
+  top: 5%;
+  width: 75px;
+}
+.nav-skills {
+  background-color: #e94560;
+  border-radius: 5px;
+  color: #0f3460;
+  text-decoration: none;
+  padding: 5px;
+  position: absolute;
+  right: 15%;
+  top: 5%;
+  width: 75px;
+}
+.nav-contact {
+  background-color: #e94560;
+  border-radius: 5px;
+  color: #0f3460;
+  text-decoration: none;
+  padding: 5px;
+  position: absolute;
+  right: 5%;
+  top: 5%;
+  width: 75px;
+}
+
+/* ***************top container*************** */
+
+.top-con {
+  background-color: #1a1a2e;
+  height: 600px;
+  margin-top: 0;
+  padding-top: 275px;
+  position: relative;
+  width: 100%;
+}
+.head1 {
+  color: #e94560;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 7.625rem;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.p1 {
+  color: #e94560;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.8rem;
+}
+
+/* ***************middle container*************** */
+
+.skill-b {
+  background-color: #0f3460;
+  padding-top: 200px;
+  padding-bottom: 70px;
+
+  width: 100%;
+}
+
+.skills {
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+.emp_h {
+  color: #e94560;
+  font-size: 3rem;
+  font-family: "Londrina Solid", cursive;
+  margin-top: 0;
+}
+.emp_p {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+}
+
+.rush {
+  margin-top: 150px;
+}
+.rush_h {
+  color: #e94560;
+  font-size: 3rem;
+  font-family: "Londrina Solid", cursive;
+}
+.rush_p {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+}
